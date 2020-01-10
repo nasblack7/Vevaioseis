@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\VEVAIOSI_backend.mdb;Persist Security Info=True;Jet OLEDB:Database Password=N@$$3r75
